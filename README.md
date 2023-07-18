@@ -1,3 +1,5 @@
+Upgrade of gorriecoe/silverstripe-link to support PHP 8.2 and Silverstripe 5
+
 # Silverstripe linkfield
 
 Adds a Linkfield for [gorriecoe/silverstripe-link](https://github.com/gorriecoe/silverstripe-link)
